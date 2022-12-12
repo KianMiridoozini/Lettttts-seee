@@ -1,0 +1,29 @@
+
+
+@import url('https://fonts.cdnfonts.com/css/palatino');
+@import url('https://fonts.cdnfonts.com/css/optima');
+
+                
+
+
+$header-font: 'Palatino', serif;
+$main-font: 'Optima', sans-serif;
+
+.header{
+    font-family: $header-font;
+}
+.article {
+    color: white;
+    background: #660000
+    padding-top 25px;
+    font-family : $main-font;                                  
+}
+
+  
+.col-6 {
+    padding-bottom: 50px;
+    padding-top: 25px;
+    font-family: $main-font;                                  
+
+}
+
